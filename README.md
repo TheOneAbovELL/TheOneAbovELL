@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omjeergiri&label=Profile%20Views&color=blueviolet&style=flat)
 
-🎓 AIML Engineering @ BIT Mesra | Data Science @ IIT Madras  
+🎓 B.Tech in Artificial Intelligence & Machine Learning @ Birla Institute of Technology, Mesra  
+🎓 BS in Data Science and Applications @ Indian Institute of Technology, Madras  
 💻 Competitive Programmer | Tech Explorer | Curious Mind  
 📚 Learning to blend algorithms, data, and intelligence for smarter systems  
 📫 Reach me at: omjeergiri@gmail.com  
