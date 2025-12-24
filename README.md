@@ -7,7 +7,6 @@
 💻 Competitive Programmer | Tech Explorer | Curious Mind  
 📚 Learning to blend algorithms, data, and intelligence for smarter systems  
 📫 Email: omjeergiri@gmail.com  
-📸 Instagram: [@omjeergiri](https://instagram.com/omjeergiri)  
 💼 LinkedIn: [omjee-r-giri-195a53302](https://www.linkedin.com/in/omjee-r-giri-195a53302)  
 💬 Discord: `theoneaboveall9345`
 
