@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/goku-ultra-instinct.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/3e4f2d100820071.5f11d3f22b6d2.gif" width="100%">
+</div>
+
 # About Me:
 Omjee R Giri<br><br>Artificial Intelligence & Machine Learning undergraduate at BIT Mesra, concurrently pursuing a BS in Data Science and Applications from IIT Madras.<br><br>Interested in machine learning, algorithmic problem solving, and building systems that combine intelligence with practical engineering. My work and learning currently revolve around competitive programming, AI/ML, open source, and quantitative thinking.<br><br>I believe in learning by building, understanding systems from first principles, and writing code that is both efficient and meaningful.<br><br>C++ • Python • Git • Linux • Machine Learning<br><br>💼 LinkedIn: omjee-r-giri-195a53302<br>💬 Discord: theoneaboveall9345
 
