@@ -1,42 +1,90 @@
-<div align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/goku-ultra-instinct.gif" width="100%">
-</div>
+# About Me
 
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/3e4f2d100820071.5f11d3f22b6d2.gif" width="100%">
 </div>
 
-# About Me:
-Omjee R Giri<br><br>Artificial Intelligence & Machine Learning undergraduate at BIT Mesra, concurrently pursuing a BS in Data Science and Applications from IIT Madras.<br><br>Interested in machine learning, algorithmic problem solving, and building systems that combine intelligence with practical engineering. My work and learning currently revolve around competitive programming, AI/ML, open source, and quantitative thinking.<br><br>I believe in learning by building, understanding systems from first principles, and writing code that is both efficient and meaningful.<br><br>C++ • Python • Git • Linux • Machine Learning<br><br>💼 LinkedIn: omjee-r-giri-195a53302<br>💬 Discord: theoneaboveall9345
+<br>
 
+<img align="right" alt="Goku Ultra Instinct" width="260" src="https://media.tenor.com/2uyENRmiUt0AAAAC/goku-ultra-instinct.gif"/>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omjeergiri@gmail.com)
+## 👋 Omjee R Giri
 
-## ♟️ The Immortal Game — Final Position
+🎓 B.Tech in Artificial Intelligence & Machine Learning @ BIT Mesra  
+🎓 BS in Data Science and Applications @ IIT Madras  
 
-**One of the most legendary checkmates in chess history.**  
-White sacrifices nearly everything for a breathtaking mating net.  
-This position symbolizes beauty, calculation, and artistic depth in chess.
+---
+
+## 🚀 Interests
+
+- Machine Learning & Artificial Intelligence
+- Competitive Programming
+- Quantitative Thinking
+- Open Source
+- Systems & Problem Solving
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+
+### AI / Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: omjeergiri@gmail.com  
+💼 LinkedIn: omjee-r-giri-195a53302  
+💬 Discord: theoneaboveall9345  
+
+---
+
+## ♟️ Favorite Chess Position — The Immortal Game
+
+> One of the most beautiful checkmates ever played.
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
-| 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
-| 7 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) |
-| 6 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 5 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 4 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
-| 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 8 | ♜ |   | ♝ |   |   | ♚ |   | ♜ |
+| 7 | ♟ | ♟ | ♟ |   |   | ♟ | ♟ | ♟ |
+| 6 |   |   | ♞ |   |   | ♘ |   |   |
+| 5 |   |   |   |   |   |   |   |   |
+| 4 |   |   | ♗ |   |   |   |   |   |
+| 3 |   |   |   |   |   |   | ♕ |   |
+| 2 | ♙ | ♙ | ♙ | ♙ |   | ♙ | ♙ | ♙ |
+| 1 |   |   |   |   |   | ♔ |   |   |
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=TheOneAbovELL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=TheOneAbovELL&theme=dark&hide_border=false)<br/>
+✨ Final Move: **Be7#**
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=TheOneAbovELL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=TheOneAbovELL&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheOneAbovELL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ “Power comes in response to a need, not a desire.”
+
+</div>
