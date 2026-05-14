@@ -12,10 +12,6 @@ Omjee R Giri<br><br>Artificial Intelligence & Machine Learning undergraduate at 
 ![](https://streak-stats.demolab.com/?user=TheOneAbovELL&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheOneAbovELL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheOneAbovELL&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=TheOneAbovELL&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
