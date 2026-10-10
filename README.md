@@ -1,19 +1,22 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:FF2800,60:A6051A,100:FFF200&text=OMJEE%20R%20GIRI&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20DATA%20SCIENCE%20%E2%80%A2%20SYSTEMS%20BUILDER&descAlignY=55&descSize=16&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:FF2800,100:FFF200&text=OMJEE%20R%20GIRI&fontSize=56&fontColor=FFFFFF" width="100%">
-</picture>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1300&pause=400&color=FFF200&multiline=true&width=840&height=130&lines=%5B+formation+lap+%5D+retrieval+stack+warming...;%5B+green+%5D+qdrant+%C2%B7+bge-m3+%C2%B7+langgraph+%C2%B7+16+nodes+online;%5B+green+%5D+3+gates+armed+%E2%80%94+safety+%7C+evidence+%7C+citation;%5B+lights+out+%5D+an+answer+is+only+valid+if+every+claim+resolves" alt="formation lap">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:FF2800,50:FFF200,70:FF2800,100:0D1117&height=6&section=header" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=600&pause=140&color=FF2800&center=true&vCenter=true&repeat=true&width=460&height=48&lines=%E2%97%8B+%E2%97%8B+%E2%97%8B+%E2%97%8B+%E2%97%8B;%E2%97%8F+%E2%97%8B+%E2%97%8B+%E2%97%8B+%E2%97%8B;%E2%97%8F+%E2%97%8F+%E2%97%8B+%E2%97%8B+%E2%97%8B;%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8B+%E2%97%8B;%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8B;%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%E2%96%B8+LIGHTS+OUT" alt="lights out">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=46&duration=180&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&letterSpacing=10px&width=900&height=78&lines=OMJEE+R+GIRI" alt="Omjee R Giri">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=650&color=FF2800&center=true&vCenter=true&width=820&height=36&lines=AI+%2F+ML+ENGINEER+%E2%80%A2+DATA+SCIENCE+%E2%80%A2+SYSTEMS+BUILDER;I+build+intelligent+systems+%E2%80%94+and+the+engineering+underneath;a+model+is+one+stage+in+a+longer+path;if+it+isn't+measured%2C+it's+a+guess" alt="roles">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:FFF200,50:FF2800,70:FFF200,100:0D1117&height=6&section=header" width="100%">
 
 <br>
 
-<a href="#-driver"><img src="https://img.shields.io/badge/01_DRIVER-0D1117?style=for-the-badge&labelColor=FF2800&color=0D1117"></a>
-<a href="#-timing-tower"><img src="https://img.shields.io/badge/02_TIMING-0D1117?style=for-the-badge&labelColor=FFF200&color=0D1117"></a>
-<a href="#-sector-splits"><img src="https://img.shields.io/badge/03_SECTORS-0D1117?style=for-the-badge&labelColor=FF2800&color=0D1117"></a>
-<a href="#-telemetry"><img src="https://img.shields.io/badge/04_TELEMETRY-0D1117?style=for-the-badge&labelColor=FFF200&color=0D1117"></a>
-<a href="#-race-history"><img src="https://img.shields.io/badge/05_HISTORY-0D1117?style=for-the-badge&labelColor=FF2800&color=0D1117"></a>
+<a href="#driver"><img src="https://img.shields.io/badge/01_DRIVER-0D1117?style=for-the-badge&labelColor=FF2800&color=0D1117"></a>
+<a href="#programmes"><img src="https://img.shields.io/badge/02_PROGRAMMES-0D1117?style=for-the-badge&labelColor=FFF200&color=0D1117"></a>
+<a href="#sectors"><img src="https://img.shields.io/badge/03_SECTORS-0D1117?style=for-the-badge&labelColor=FF2800&color=0D1117"></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/04_TELEMETRY-0D1117?style=for-the-badge&labelColor=FFF200&color=0D1117"></a>
+<a href="#paddock"><img src="https://img.shields.io/badge/05_PADDOCK-0D1117?style=for-the-badge&labelColor=FF2800&color=0D1117"></a>
 
 <br><br>
 
@@ -24,12 +27,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,50:FFF200,100:FF2800&height=4&section=header" width="100%">
+<br>
 
-## 🏎 driver
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1100&pause=99999&color=FF2800&repeat=false&width=900&height=26&lines=%E2%96%B8+01+%C2%B7+DRIVER+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+READY" alt="">
+
+<h2 id="driver"></h2>
 
 ```console
-omjee@scuderia:~$ ./driver --card
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   D R I V E R      Omjee R Giri                                  ║
@@ -42,7 +46,6 @@ omjee@scuderia:~$ ./driver --card
 ║                                              [ run concurrently ]║
 ╚══════════════════════════════════════════════════════════════════╝
 
-omjee@scuderia:~$ ./circuit --loop
         ╭────────────── UNDERSTAND ──────────────╮
         │                                        ▼
      OPTIMIZE                                  BUILD
@@ -52,36 +55,26 @@ omjee@scuderia:~$ ./circuit --loop
    S1  data arrives clean ................................. [ GREEN ]
    S2  retrieval is measurable ............................ [ GREEN ]
    S3  the API answers when a provider goes down .......... [ GREEN ]
-   ──  "if it isn't measured, it's a guess"
 ```
 
 > **I don't want to only build models. I want to understand the system around them.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFF200,50:FF2800,100:FFF200&height=4&section=header" width="100%">
+<br>
 
-## 🏁 timing tower
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1100&pause=99999&color=FFF200&repeat=false&width=900&height=26&lines=%E2%96%B8+02+%C2%B7+PROGRAMMES+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+03+RUNNING" alt="">
 
-```console
-┌─────┬─────┬────────────────────┬───────────────────┬───────────┬──────────┐
-│ POS │ No. │ PROGRAMME          │ SECTOR            │ STATUS    │ INTERVAL │
-├─────┼─────┼────────────────────┼───────────────────┼───────────┼──────────┤
-│ P1  │ 01  │ LEGAL LENS         │ AI / RETRIEVAL    │ ▰ RUNNING │    —     │
-│ P2  │ 02  │ qEEG SUBTYPING     │ RESEARCH / SIGNAL │ ▱ IN PITS │  +0.482  │
-│ P3  │ 03  │ ARGUS              │ QUANTITATIVE      │ ▰ OUT LAP │  +1.139  │
-└─────┴─────┴────────────────────┴───────────────────┴───────────┴──────────┘
-  ▰ active   ▱ research prototype — no results reported, by design
-```
+<h2 id="programmes"></h2>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### `01` LEGAL LENS
-<img src="https://img.shields.io/badge/P1-FF2800?style=flat-square&labelColor=0D1117"> <img src="https://img.shields.io/github/last-commit/TheOneAbovELL/legal-lens-backend?style=flat-square&label=&labelColor=0D1117&color=FFF200">
+<img src="https://img.shields.io/badge/AI_%2F_RETRIEVAL-FF2800?style=flat-square&labelColor=0D1117"> <img src="https://img.shields.io/github/last-commit/TheOneAbovELL/legal-lens-backend?style=flat-square&label=&labelColor=0D1117&color=FFF200">
 
 16-node **LangGraph** pipeline over hybrid search on **Qdrant**. Dense + sparse + metadata fused with weighted RRF, IPC ↔ BNS provisions mapped as citable entries, typed SSE events to the client.
 
-**Three gates.** Two of them can end a request before a single token is generated — weak evidence returns a fixed reply, an unknown citation ID rejects the whole answer.
+**Three gates.** Two can end a request before a single token is generated — weak evidence returns a fixed reply, an unknown citation ID rejects the whole answer.
 
 Kept honest by Recall@K · MRR · nDCG · citation validity.
 
@@ -92,7 +85,7 @@ Kept honest by Recall@K · MRR · nDCG · citation validity.
 <td width="33%" valign="top">
 
 ### `02` qEEG SUBTYPING
-<img src="https://img.shields.io/badge/P2-A6051A?style=flat-square&labelColor=0D1117"> <img src="https://img.shields.io/badge/RESEARCH-0D1117?style=flat-square&color=FFF200">
+<img src="https://img.shields.io/badge/RESEARCH-A6051A?style=flat-square&labelColor=0D1117"> <img src="https://img.shields.io/badge/PROTOTYPE-0D1117?style=flat-square&color=FFF200">
 
 19 channels → filter, ICA, re-reference, epoch → spectral, connectivity and nonlinear features → **three branches, one signal**.
 
@@ -106,7 +99,7 @@ A 1D-CNN reads local temporal pattern. A GCN reads *measured* electrode coherenc
 <td width="33%" valign="top">
 
 ### `03` ARGUS
-<img src="https://img.shields.io/badge/P3-A6051A?style=flat-square&labelColor=0D1117"> <img src="https://img.shields.io/github/last-commit/TheOneAbovELL/ARGUS?style=flat-square&label=&labelColor=0D1117&color=FFF200">
+<img src="https://img.shields.io/badge/QUANTITATIVE-FF2800?style=flat-square&labelColor=0D1117"> <img src="https://img.shields.io/github/last-commit/TheOneAbovELL/ARGUS?style=flat-square&label=&labelColor=0D1117&color=FFF200">
 
 **A Sharpe ratio a language model estimated is not a Sharpe ratio.**
 
@@ -121,34 +114,23 @@ The model never touches the arithmetic. That's the entire design.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,50:FFF200,100:FF2800&height=4&section=header" width="100%">
+<br>
 
-## ⏱ sector splits
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1100&pause=99999&color=FF2800&repeat=false&width=900&height=26&lines=%E2%96%B8+03+%C2%B7+SECTORS+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+SPLITS" alt="">
+
+<h2 id="sectors"></h2>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=600&color=FF2800&center=true&width=780&height=32&lines=S1+DATA+%E2%96%B8+S2+MODELS+%E2%96%B8+S3+SYSTEMS+%E2%96%B8+S4+DELIVERY;purple+sector+%3D+the+one+I'd+be+hired+for" alt="">
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,pytorch,sklearn,numpy,pandas&theme=dark&perline=8">
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github,linux,nextjs,ts&theme=dark&perline=8">
 
-</div>
+<br><br>
 
-```console
-┌──────┬────────────────────┬──────────────────────────────────────────────┐
-│ SECT │ SPLIT              │ RUNNING                                      │
-├──────┼────────────────────┼──────────────────────────────────────────────┤
-│  S1  │ DATA               │ SQL · NumPy · Pandas · statistics · features │
-│  S2  │ MODELS             │ PyTorch · Transformers · CNN · GCN · LLMs    │
-│  S3  │ SYSTEMS   ◀ PURPLE │ LangGraph · Qdrant · RAG · FastAPI · SSE     │
-│  S4  │ DELIVERY           │ Docker · CI/CD · Linux · contract + e2e test │
-└──────┴────────────────────┴──────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1400&pause=600&color=FFF200&multiline=true&repeat=false&width=820&height=150&lines=S1+DATA++++++%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1++SQL+%C2%B7+NumPy+%C2%B7+Pandas+%C2%B7+statistics;S2+MODELS++++%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1++PyTorch+%C2%B7+Transformers+%C2%B7+CNN+%C2%B7+GCN;S3+SYSTEMS+++%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0++LangGraph+%C2%B7+Qdrant+%C2%B7+RAG+%C2%B7+SSE+%E2%97%80+PURPLE;S4+DELIVERY++%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1++Docker+%C2%B7+CI%2FCD+%C2%B7+Linux+%C2%B7+e2e+tests" alt="sector splits">
 
-<div align="center">
+<br>
 
 <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langchain&logoColor=FF2800">
 <img src="https://img.shields.io/badge/Qdrant-0D1117?style=for-the-badge&logo=qdrant&logoColor=FFF200">
@@ -159,9 +141,11 @@ The model never touches the arithmetic. That's the entire design.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFF200,50:FF2800,100:FFF200&height=4&section=header" width="100%">
+<br>
 
-## 📡 telemetry
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1100&pause=99999&color=FFF200&repeat=false&width=900&height=26&lines=%E2%96%B8+04+%C2%B7+TELEMETRY+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+LIVE+FEED" alt="">
+
+<h2 id="telemetry"></h2>
 
 <div align="center">
 
@@ -175,24 +159,7 @@ The model never touches the arithmetic. That's the entire design.
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=TheOneAbovELL&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6">
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,50:FFF200,100:FF2800&height=4&section=header" width="100%">
-
-## 🏆 race history
-
-### `> lap times — codeforces`
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"background":"transparent","xyChart":{"backgroundColor":"transparent","titleColor":"#FF2800","xAxisLabelColor":"#8B949E","xAxisTitleColor":"#FFF200","xAxisTickColor":"#30363D","xAxisLineColor":"#30363D","yAxisLabelColor":"#8B949E","yAxisTitleColor":"#FFF200","yAxisTickColor":"#30363D","yAxisLineColor":"#30363D","plotColorPalette":"#FF2800"}}}%%
-xychart-beta
-    title "RATING PER RATED CONTEST — C++"
-    x-axis [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
-    y-axis "rating" 1050 --> 1450
-    line [1102, 1134, 1187, 1163, 1221, 1258, 1240, 1289, 1312, 1297, 1348, 1379, 1411]
-```
-
-<div align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DThe0NEAboveALL&query=%24.result%5B0%5D.rating&label=CURRENT&labelColor=0D1117&color=FF2800&style=for-the-badge&logo=codeforces&logoColor=FFF200&cacheSeconds=3600">
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DThe0NEAboveALL&query=%24.result%5B0%5D.maxRating&label=PERSONAL%20BEST&labelColor=0D1117&color=FFF200&style=for-the-badge&cacheSeconds=3600">
@@ -204,52 +171,20 @@ xychart-beta
 
 </div>
 
-### `> season log`
-
-```mermaid
-%%{init: {"theme":"base","gitGraph":{"showBranches":true,"mainBranchName":"main"},"themeVariables":{"git0":"#FF2800","git1":"#FFF200","git2":"#A6051A","git3":"#E6EDF3","gitBranchLabel0":"#0D1117","gitBranchLabel1":"#0D1117","gitBranchLabel2":"#FFFFFF","gitBranchLabel3":"#0D1117","commitLabelColor":"#E6EDF3","commitLabelBackground":"#161B22","tagLabelColor":"#0D1117","tagLabelBackground":"#FFF200","fontFamily":"ui-monospace, monospace","fontSize":"12px"}}}%%
-gitGraph
-   commit id: "BIT Mesra · B.Tech AI-ML"
-   branch competitive
-   commit id: "Codeforces · Pupil"
-   checkout main
-   branch data-science
-   commit id: "IIT Madras · BS DS"
-   checkout main
-   merge data-science
-   branch research
-   commit id: "Legal Lens · retrieval"
-   commit id: "eval harness · R@K · MRR · nDCG"
-   checkout competitive
-   commit id: "Specialist · 1411" tag: "13 contests"
-   checkout main
-   branch opensource
-   commit id: "Nyay Setu · 7 PRs merged"
-   commit id: "GSSoC · rank 1065 / 70k+"
-   checkout main
-   merge opensource
-   branch quant
-   commit id: "ARGUS · risk engine"
-   commit id: "Option pricer · Greeks"
-   checkout main
-   merge research
-   merge quant
-   merge competitive
-   commit id: "OPEN TO INTERNSHIPS" type: HIGHLIGHT
-```
-
 | | |
 |:--|:--|
 | 🏆 **GSSoC 2026** | Global rank **1,065** of 70,000+ registered · **[7 PRs merged](https://github.com/viru0909-dev/nyay-setu-working/pulls?q=is%3Apr+author%3ATheOneAbovELL+is%3Amerged)** into a production judiciary platform |
 | 🔬 **Research** | Undergraduate Research Assistant · Dept. of Computer Science, BIT Mesra · Jan 2026 → present |
-| ⚔️ **Codeforces** | Specialist in C++ · the badges above pull live from the Codeforces API |
+| ⚔️ **Codeforces** | Specialist in C++ · the three badges above pull live from the Codeforces API |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFF200,50:FF2800,100:FFF200&height=4&section=header" width="100%">
+<br>
 
-## 🔧 the paddock
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1100&pause=99999&color=FF2800&repeat=false&width=900&height=26&lines=%E2%96%B8+05+%C2%B7+PADDOCK+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+14+INDEXED" alt="">
+
+<h2 id="paddock"></h2>
 
 <details>
-<summary><b>⚡ 14 repositories in the garage — experiments, tools, hackathon builds</b></summary>
+<summary><b>⚡ the garage — experiments, tools, hackathon builds</b></summary>
 
 <br>
 
@@ -290,13 +225,13 @@ which is the only honest way to keep it.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,50:FFF200,100:FF2800&height=4&section=header" width="100%">
-
-## 🏁 pit lane open
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=FF2800&center=true&width=860&height=40&lines=Open+to+internships+%E2%80%94+AI%2FML+Engineering;Software+Engineering+%E2%80%A2+Data+Science;Quantitative+Research;Let's+build+something+measurable." alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:FFF200,50:FF2800,70:FFF200,100:0D1117&height=6&section=header" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=FF2800&center=true&width=860&height=40&lines=%E2%96%B8+PIT+LANE+OPEN;internships+%E2%80%94+AI%2FML+Engineering;Software+Engineering+%E2%80%A2+Data+Science;Quantitative+Research;Let's+build+something+measurable." alt="">
 
 <br>
 
